@@ -7,6 +7,6 @@ This data was part of the BPI challenge 2019 in the ninth International Business
 van Dongen, B.F., Dataset BPI Challenge 2019. 4TU.Centre for Research Data. 
 https://doi.org/10.4121/uuid:d06aff4b-79f0-45e6-8ec8-e19730c248f1
 
-The provided Jupyter Notebook also contains some explanations and analysis.
+**The provided Jupyter Notebook also contains some explanations and analysis.**
 
 
